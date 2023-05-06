@@ -28,7 +28,8 @@ Made by Priyanshi Baldha.
 ## 📽️ GIF
 
 
-https://user-images.githubusercontent.com/113037698/235308076-82dff573-8267-404a-a6db-937b0cd7aad8.mp4
+
+https://user-images.githubusercontent.com/113037698/236628242-ca9ca4ef-89cf-49a6-a779-18f9ca060d04.mp4
 
 
 
@@ -36,6 +37,8 @@ https://user-images.githubusercontent.com/113037698/235308076-82dff573-8267-404a
 
 
 <div align="center">
+
+
 
 <img src="./assets/images/icon.png" width="200px" height="200px">
 
